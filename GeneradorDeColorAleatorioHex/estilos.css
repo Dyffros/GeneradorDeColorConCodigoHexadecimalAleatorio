@@ -1,0 +1,50 @@
+body{
+    background: #1e272e;
+    margin: 0;
+    padding: 0;
+    font-family: 'Happy Monkey', cursive;
+}
+.color{
+    margin-top:300px;
+    text-align: center;
+}
+#hex{
+    display: block;
+    color: white;
+    font-size: 40px;
+    text-transform: uppercase;
+    margin: 20px;
+}
+.color button{
+    background: none;
+    outline: none;
+    color: white;
+    border: 3px solid white;
+    cursor: pointer;
+    font-size: 24px;
+    border-radius: 15px;
+    font-family: 'Happy Monkey', cursive;
+    padding: 10px;
+    margin: 0px 20px;
+}
+h1{
+    color: #ffffff;
+    padding: 10px;
+    margin: 20px 20px;
+    text-align: center;
+    border: 2px solid #ffffff;
+    border-radius: 15px;
+}
+.flex-container{
+    display: flex;
+    justify-content: center;
+}
+.footer{
+    text-align: center;
+    color: #ffffff;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+}
